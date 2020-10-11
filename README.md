@@ -7,7 +7,7 @@ Expose a REST API for retrieving vehicles
 
 ## Video
 
-attach URL here
+[Explanation of choices](https://youtu.be/7t4ytW-kVNg)
 
 ### URL
 
